@@ -1,1 +1,2 @@
-print("To wykonanie modułu B")
+def funcB():
+  print("To wykonanie modułu B")
